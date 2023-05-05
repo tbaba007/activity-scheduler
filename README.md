@@ -11,7 +11,6 @@ To check if **node** is installed on your machine, run **node -v** to see the ve
 3. cd into the folder
 4. create a .env file inside the root directory.
 5. paste the following inside 
-REACT_APP_API_KEY=078c33e748674908712fd4dade3ec9d4
 REACT_APP_API_BASEURL=https://api.openweathermap.org/data/2.5/weather
 6. run **npm or yarn** install to install the applications **dependencies**
 7. start the server with **npm start or yarn start**
